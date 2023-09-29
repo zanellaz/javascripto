@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T22:59:17.639Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="sNZ5ntypvKLNIK5mgUG-" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T23:06:07.555Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="HxEAYVxLkFp4pISIA_hj" version="21.8.2" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -13,11 +13,20 @@
         <mxCell id="kopdhykine0tpt0BC8dk-6" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="1060" height="810" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-15" value="My Data Importer" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;spacing=10;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="220" width="490" height="260" as="geometry" />
+        <mxCell id="677b7b8949515195-15" value="Importe seus dados!" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;verticalAlign=top;spacing=10;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="107" width="1060" height="279" as="geometry" />
         </mxCell>
         <mxCell id="kopdhykine0tpt0BC8dk-3" value="Entrar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="47.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="kopdhykine0tpt0BC8dk-8" value="texto" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="181.5" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kopdhykine0tpt0BC8dk-9" value="texto" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="485" y="181.5" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kopdhykine0tpt0BC8dk-10" value="texto" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="750" y="181.5" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
