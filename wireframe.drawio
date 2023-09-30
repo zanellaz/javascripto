@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-30T04:32:50.175Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="hQNA2TNM9vTQ2TEB5xfb" version="21.8.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-09-30T04:35:00.375Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="WzOwzJc7KoDNH0HGr_kV" version="21.8.2" type="github" pages="6">
   <diagram name="Página inicial" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -476,14 +476,6 @@
         <mxCell id="9RpTnMAWUwOszkXCsIoE-0" value="Ver tarefas mescladas" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0;" vertex="1" parent="TTbhQ-58pD1xNgUev1ek-1">
           <mxGeometry x="583" y="710" width="240" height="60" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="Lkb5y3WpsqBTk0Zwcrke" name="Page-7">
-    <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
