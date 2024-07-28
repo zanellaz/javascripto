@@ -299,7 +299,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D2q2hoNaxWQnG8xuTikW-45" value="&lt;b&gt;Salva a redação no banco de dados&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1424.94" y="905" width="149" height="50" as="geometry" />
+          <mxGeometry x="1404.94" y="865" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D2q2hoNaxWQnG8xuTikW-66" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;[Sim]&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="D2q2hoNaxWQnG8xuTikW-65" parent="1" target="D2q2hoNaxWQnG8xuTikW-45">
           <mxGeometry x="-1" relative="1" as="geometry">
